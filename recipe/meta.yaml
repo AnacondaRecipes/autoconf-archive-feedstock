@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://ftp.gnu.org/gnu/autoconf-archive/{{ name }}-{{ version }}.tar.xz
-  sha256: d5a32a82cb757c0026f2394d86a42fb5e3a2a6f8e89ad91904e33ce1cff092ac
+  sha256: 17195c833098da79de5778ee90948f4c5d90ed1a0cf8391b4ab348e2ec511e3f
 
 build:
   number: 1
