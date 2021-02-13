@@ -1,5 +1,5 @@
 {% set name = "autoconf-archive" %}
-{% set version = "2019.1.6" %}
+{% set version = "2019.01.06" %}
 
 package:
   name: {{ name|lower }}
